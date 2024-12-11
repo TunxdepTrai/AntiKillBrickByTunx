@@ -26,7 +26,7 @@ TextLabel.BorderColor3 = Color3.fromRGB(255, 0, 0)
 TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(0, 163, 0, 23)
 TextLabel.Font = Enum.Font.SourceSansBold
-TextLabel.Text = "Truong Ky AntiBrick"
+TextLabel.Text = "Tunx AntiBrick"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextSize = 18.000
 
